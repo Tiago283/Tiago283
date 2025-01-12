@@ -18,6 +18,3 @@ Sou um entusiasta de tecnologia e programação, sempre em busca de aprender nov
 
 ### 😄 Pronomes:
 Ele/Dele (He/Him)  
----
-
-> Este perfil é um reflexo da minha jornada de aprendizado e contribuição no mundo da programação. Vamos construir algo incrível juntos! 🚀  
