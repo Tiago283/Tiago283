@@ -18,3 +18,4 @@ Sou um entusiasta de tecnologia e programação, sempre em busca de aprender nov
 
 ### 😄 Pronomes:
 Ele/Dele (He/Him)  
+---
