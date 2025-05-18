@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou o Tiago283  
+# 👋 Olá! Eu sou o Tiago  
 
 ### 🌟 Sobre mim
-Sou um entusiasta de tecnologia e programação, sempre motivado a aprender novas ferramentas e linguagens. Tenho paixão por resolver problemas e criar projetos inovadores que impactam positivamente a vida das pessoas.
+Sou um amante de tecnologia, sempre motivado a aprender novas habilidades.  
 
 ### 🎯 O que estou fazendo agora:
-- 📘 **Estudando:** Python, JavaScript, C++ e outras tecnologias para expandir minhas habilidades em projetos diversos.  
+- 📘 **Estudando:** Tecnologias para expandir minhas habilidades em projetos diversos.  
 - 🌱 Explorando continuamente novas ferramentas e conceitos em tecnologia.  
 
 ### 👀 Meus interesses:
@@ -22,4 +22,3 @@ Ele/Dele (He/Him)
 ---
 
 > *"Tecnologia é a arte de transformar ideias em realidade."*  
-Vamos criar algo incrível juntos! 🚀  
