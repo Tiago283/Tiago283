@@ -1,2 +1,2 @@
 # Tiago
-Estudante Python
+Estudante de programação e desenvolvimento Android
